@@ -8,6 +8,10 @@
   --text-black-700: #504e70;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 body.dark {
   --bg-black-900: #151515;
   --bg-black-100: #222222;
@@ -331,7 +335,7 @@ h3.my-profession {
 .home .home-img img {
   margin: auto;
   border-radius: 5px;
-  height: 350px;
+  height: 320px;
 }
 
 /* About */
